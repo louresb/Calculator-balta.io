@@ -1,1 +1,1 @@
-# C-calculator---balta.io
+# Calculator-balta.io
